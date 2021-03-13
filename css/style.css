@@ -35,9 +35,15 @@ h1{
 .paragraph{
 	padding-bottom: 20px;
 	font-size: 19px;
+	font-family: serif;
 }
 
 .link{
 	text-align: center;
 	padding-bottom: 30px;
+}
+
+span{
+	font-family: serif;
+	font-size: 15px;
 }
